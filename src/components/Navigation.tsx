@@ -8,6 +8,7 @@ const navItems = [
   { label: "首页", href: "#hero" },
   { label: "项目", href: "#projects" },
   { label: "日记", href: "#diary" },
+  { label: "AI助手", href: "/ai" },
   { label: "登录", href: "#login" },
 ];
 
